@@ -1,0 +1,21 @@
+# NetBeans specific files
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+*.class
+
+# Maven
+target/
+*.log
+
+# IDE files
+*.iml
+.idea/
+*.iws
+*.ipr
+
+# OS files
+.DS_Store
+Thumbs.db
